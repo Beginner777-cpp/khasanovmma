@@ -1,6 +1,6 @@
 
 
-<img align="left" alt="GIF" src="1-jB76MLZjiNhGSQQvxm7LSQ-1--unscreen.gif"/>
+<img align="left" alt="GIF" src="1-jB76MLZjiNhGSQQvxm7LSQ-1--unscreen.gif" width="700"/>
 <img align="right" alt="GIF" src="12e8a6a547e317524121f7a5d6084036.gif"/>
 
 
