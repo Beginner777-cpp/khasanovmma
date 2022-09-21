@@ -1,7 +1,7 @@
 
 
 <img align="left" alt="GIF" src="1-jB76MLZjiNhGSQQvxm7LSQ-1--unscreen.gif" width="600"/>
-<img align="right" alt="GIF" src="12e8a6a547e317524121f7a5d6084036.gif" width="350"/>
+<img align="right" alt="GIF" src="c5f06cb3309393f3922761354b7304e3.gif" width="350"/>
 
 
 ![gitartwork](gitartwork.svg)
